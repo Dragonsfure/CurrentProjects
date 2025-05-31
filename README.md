@@ -7,7 +7,7 @@ This repository provides an overview of projects I’m currently working on in m
 For the following Overview theres no specific Order:
 
 "Dead" Projects are not shown here.
-For More Information about an Project plz contact me over an [Social Media](#-contact) of your choosing.****
+For More Information about an Project plz contact me over an [Social Media](#-contact) of your choosing.
 
 | Name                                                             | Repo Link                                                           | Visibility | Status      |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- | ----------- |
